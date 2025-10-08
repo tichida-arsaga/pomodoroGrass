@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Hello World Extension",
+  "name": "pomodoro Grass",
   "version": "1.0",
   "description": "アイコンをクリックするとポップアップで挨拶します。",
   "icons": {
